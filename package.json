@@ -1,6 +1,6 @@
 {
   "name": "@fidera/leaflet-tile-header",
-  "version": "1.0.9",
+  "version": "2.0.0",
   "description": "Fidera fork of: Custom headers on Leaflet TileLayer",
   "main": "index.js",
   "repository": {
