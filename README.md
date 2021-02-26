@@ -1,4 +1,9 @@
 # leaflet-wms-header
+
+_Please note that this is a custom fork and all the documentation below is related to the original fork._
+
+-----
+
 Custom headers on Leaflet TileLayer WMS.
 It's a simple plugin that allow to set custom header for WMS interface.
 

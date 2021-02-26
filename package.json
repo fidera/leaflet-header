@@ -1,26 +1,24 @@
 {
-  "name": "leaflet-wms-header",
-  "version": "1.0.8",
-  "description": "Custom headers on Leaflet TileLayer WMS",
+  "name": "@fidera/leaflet-tile-header",
+  "version": "2.0.0",
+  "description": "Fidera fork of: Custom headers on Leaflet TileLayer",
   "main": "index.js",
-  "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ticinum-aerospace/leaflet-wms-header"
+    "url": "https://github.com/fidera/Leaflet.TrackPlayBack.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "leaflet",
     "headers",
     "tilelayer",
-    "wms",
-    "plugin",
-    "typescript",
-    "types"
+    "plugin"
   ],
-  "author": "Ticinum Aerospace",
+  "author": "Ticinum Aerospace, Fidera",
   "license": "ISC",
   "dependencies": {
-    "rxjs": "^6.5.3",
-    "typescript": "^2.9.2"
+    "rxjs": "^6.5.3"
   }
 }
