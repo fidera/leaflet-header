@@ -1,11 +1,14 @@
 {
-  "name": "leaflet-tile-header",
+  "name": "@fidera/leaflet-tile-header",
   "version": "1.0.9",
-  "description": "Custom headers on Leaflet TileLayer",
+  "description": "Fidera fork of: Custom headers on Leaflet TileLayer",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/fidera/Leaflet.TrackPlayBack.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [
     "leaflet",
